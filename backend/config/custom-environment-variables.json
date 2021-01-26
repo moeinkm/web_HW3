@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "jwtPrivateKey",
+  "mail": {
+    "password": "app_password"
+  }
+}
