@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84acde34-6ca4-4b6c-bdc8-b93d9fe55795" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/REACT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/migration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/avatars/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/avatars/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/avatars/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/avatars/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/avatars/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/avatars/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/avatars/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/avatars/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/icons/logo-negative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/icons/logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/icons/sygnet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/TheContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/TheFooter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/TheHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/TheHeaderDropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/TheHeaderDropdownMssg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/TheHeaderDropdownNotif.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/TheHeaderDropdownTasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/TheLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/TheSidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/_nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/containers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/image/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/polyfill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reusable/DocsLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reusable/FormikInput/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reusable/FormikInput/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reusable/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/router/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/router/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/scss/_custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/scss/_fixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/services/account.api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/services/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/auth/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/auth/type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/auth.util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/breadcrumbs/Breadcrumbs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/cards/Cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/carousels/Carousels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/collapses/Collapses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/forms/BasicForms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/jumbotrons/Jumbotrons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/list-groups/ListGroups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/navbars/Navbars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/navs/Navs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/paginations/Pagnations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/popovers/Popovers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/progress-bar/ProgressBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/switches/Switches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/tables/Tables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/tabs/Tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/base/tooltips/Tooltips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/buttons/brand-buttons/BrandButtons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/buttons/button-dropdowns/ButtonDropdowns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/buttons/button-groups/ButtonGroups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/buttons/buttons/Buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/buttons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/charts/ChartBarSimple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/charts/ChartLineSimple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/charts/Charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/charts/MainChartExample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/dashboard/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/icons/brands/Brands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/icons/coreui-icons/CoreUIIcons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/icons/flags/Flags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/notifications/alerts/Alerts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/notifications/badges/Badges.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/notifications/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/notifications/modals/Modals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/notifications/toaster/Toaster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/pages/login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/pages/page404/Page404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/pages/page500/Page500.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/pages/register/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/pages/register/validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/posts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/posts/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/posts/validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/theme/colors/Colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/theme/typography/Typography.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/users/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/users/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/users/UsersData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/widgets/Widgets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/widgets/WidgetsBrand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/widgets/WidgetsDropdown.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HW3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW3" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84acde34-6ca4-4b6c-bdc8-b93d9fe55795" name="Default Changelist" comment="" />
+      <created>1611670362114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611670362114</updated>
+      <workItem from="1611670393596" duration="1697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1697000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
